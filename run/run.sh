@@ -1,1 +1,1 @@
-m2s --x86-sim detailed --x86-config x86-config.ini --mem-config mem-config.ini --ctx-config ctx-config.ini --x86-report result/x86-report.txt --mem_report result/mem_report.txt &> result/stats.txt
+m2s --x86-sim detailed --x86-config x86-config.ini --mem-config mem-config.ini --ctx-config ctx-config.ini --x86-report result/x86-report.txt --mem-report result/mem-report.txt &> result/stats.txt
