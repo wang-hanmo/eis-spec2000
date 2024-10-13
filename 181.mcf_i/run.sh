@@ -1,0 +1,1 @@
+m2s --x86-sim detailed --x86-config ../arch.ini --ctx-config cfg.ini --x86-report result/report.txt
