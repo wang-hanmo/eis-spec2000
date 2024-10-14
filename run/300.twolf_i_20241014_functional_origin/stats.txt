@@ -1,0 +1,19 @@
+
+; Multi2Sim 5.0 - A Simulation Framework for CPU-GPU Heterogeneous Computing
+; Please use command 'm2s --help' for a list of command-line options.
+; Simulation alpha-numeric ID: L7HJm
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+RealTime = 67.68 [s]
+SimEnd = ContextsFinished
+
+[ x86 ]
+RealTime = 67.68 [s]
+Instructions = 212025937
+InstructionsPerSecond = 3132844
+
