@@ -1,0 +1,32 @@
+
+; Multi2Sim 5.0 - A Simulation Framework for CPU-GPU Heterogeneous Computing
+; Please use command 'm2s --help' for a list of command-line options.
+; Simulation alpha-numeric ID: pBLx3
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+RealTime = 119547.42 [s]
+SimEnd = ContextsFinished
+SimTime = 1246825886.40 [ns]
+Frequency = 5000 [MHz]
+Cycles = 6234129433
+
+[ x86 ]
+RealTime = 119547.41 [s]
+Instructions = 4419633255
+InstructionsPerSecond = 36970
+SimTime = 1246825886.60 [ns]
+Frequency = 5000 [MHz]
+Cycles = 6234129433
+CyclesPerSecond = 52148
+FastForwardInstructions = 0
+CommittedInstructions = 2291275576
+CommittedInstructionsPerCycle = 0.3675
+CommittedMicroInstructions = 3954711819
+CommittedMicroInstructionsPerCycle = 0.6344
+BranchPredictionAccuracy = 0.9085
+
